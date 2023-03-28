@@ -51,6 +51,7 @@ const Board = () => {
                 </div>
 
             </>
+            <button>Start New Game</button>
 
 
         </div>
