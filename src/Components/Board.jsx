@@ -8,7 +8,7 @@ const Board = () => {
 
     function vinodhClick(i) {
         if (calculateWinner(squares) || squares[i]) {
-            return;
+            return;  
         }
         const nextSquares = squares.slice();
         if (xIsNext) {
