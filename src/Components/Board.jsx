@@ -51,7 +51,7 @@ const Board = () => {
                 </div>
 
             </>
-            <button>Start New Game</button>
+            <button style={{color:"red"}}>Start New Game</button>
 
 
         </div>
